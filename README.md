@@ -2,14 +2,8 @@
 
 ## Jonathan Martínez Pérez
 
-## Verilog
-
-Simulaciones de CPU en Verilog
-
 ### Práctica 1
 
-Situada en la rama "p1"
+Primera practica simple de Verilog para la materia de Estructuras de Computadores
 
-### Práctica 2
 
-Situada en la rama "p2"
