@@ -2,8 +2,8 @@
 
 ## Jonathan Martínez Pérez
 
-### Práctica 1
+### Práctica 2
 
-Primera practica simple de Verilog para la materia de Estructuras de Computadores
+Practica final Verilog, simulación de una CPU.
 
 
